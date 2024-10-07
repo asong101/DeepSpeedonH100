@@ -1,6 +1,6 @@
 # DeepSpeedonH100
 https://dl.acm.org/doi/10.1145/3634769.3634806
-
+https://github.com/microsoft/DeepSpeed
  
 Learn about how the models actually work
 https://arxiv.org/abs/1706.03762
